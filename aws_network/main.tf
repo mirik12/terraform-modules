@@ -7,7 +7,7 @@
 #  - XX Private Subnets
 #  - XX NAT Gateways in Public Subnets to give access to Internet from Private Subnets
 #
-# Made by Mirik . May 29 2023
+# Made by Mirik. 29 May 2023
 #----------------------------------------------------------
 
 #==============================================================
